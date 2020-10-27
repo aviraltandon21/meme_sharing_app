@@ -1,6 +1,12 @@
 # meme_sharing_app
 
-A new Flutter application.
+A  Flutter application for sharing memes.
+
+
+## Preview :
+
+![image](https://github.com/aviraltandon21/meme_sharing_app/blob/master/preview/meme.jpeg?raw=true)
+![image](https://github.com/aviraltandon21/meme_sharing_app/blob/master/preview/share.jpeg?raw=true)
 
 ## Getting Started
 
